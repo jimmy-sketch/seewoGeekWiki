@@ -1,6 +1,6 @@
 # chenjintang
 
-![image-20240312002131987](C:\Users\jimmy\AppData\Roaming\Typora\typora-user-images\image-20240312002131987.png)
+![](https://cdn.luogu.com.cn/upload/image_hosting/hctzm6nv.png)
 
 【年龄】初一
 
